@@ -5,3 +5,7 @@ p {
 .bold {
    font-weight: bold;
 }
+#header {
+   color: red;
+   text-align: center;
+}
