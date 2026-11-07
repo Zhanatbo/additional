@@ -7,5 +7,9 @@ p {
 }
 #header {
    color: red;
-   text-align: center;
+   text-align: left;
+}
+h2 {
+   color: green;
+   font-size: 18px;
 }
